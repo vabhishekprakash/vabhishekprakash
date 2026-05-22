@@ -9,7 +9,7 @@ CSE (AI/ML) undergrad
 I am interested in Reinforcement Learning, Deep Neural Networks, and building scalable systems. I want to learn more about computers and programming.
 
 
-🛠️ Working on **autonomous surveillance systems** and **production-ready RAG pipelines**.
+
 
 
 ## Tech Stack
