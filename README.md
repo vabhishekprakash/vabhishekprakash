@@ -1,6 +1,6 @@
 ## Hi, I'm Abhishek
 
-Final-year CSE (AI & ML) student in Hyderabad. I build tools that make opaque systems easier to understand, from fault detection on EV charging networks to evaluating RAG pipelines.
+Final-year CSE (AI & ML) student. I build tools that make opaque systems easier to understand, from fault detection on EV charging networks to evaluating RAG pipelines.
 
 From April to September 2026 I interned at AMIK Technologies, where I worked on a RAG-based support assistant and diagnosed charger faults from OCPP telemetry.
 
@@ -15,5 +15,7 @@ From April to September 2026 I interned at AMIK Technologies, where I worked on 
 - **trust-aware-agent** (private for now): an agent that attaches confidence scores to its answers.
 
 **Tools I use in these projects:** Python, FastAPI, scikit-learn, pandas, FAISS, LangChain, SQL, Docker
+
+- Reading about training models with AI feedback: so far [Constitutional AI](https://arxiv.org/abs/2212.08073) (Anthropic, 2022) and [RLAIF](https://arxiv.org/abs/2309.00267) (Lee et al., 2023).
 
 [LinkedIn](https://www.linkedin.com/in/vallamalla-abhishek-prakash) · vabhishekprakash@gmail.com
