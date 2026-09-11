@@ -1,21 +1,19 @@
-## Hi, I'm Abhishek!
+## Hi, I'm Abhishek
 
+Final-year CSE (AI & ML) student in Hyderabad. I build tools that make opaque systems easier to understand, from fault detection on EV charging networks to evaluating RAG pipelines.
 
+From April to September 2026 I interned at AMIK Technologies, where I worked on a RAG-based support assistant and diagnosed charger faults from OCPP telemetry.
 
+### Projects
 
-## About me 
-CSE (AI/ML) undergrad
+- **[ev-apm-agent](https://github.com/vabhishekprakash/ev-apm-agent)**: fault detection over OCPP telemetry from a 655-charger production fleet. Rule-based detectors cover 6 fault categories, and a per-connector Isolation Forest flags drift with a 3.62% false-positive rate on a chronological holdout. Built for the ET AI Hackathon 2026.
+- **[rag-eval-system](https://github.com/vabhishekprakash/rag-eval-system)**: a fully local RAG pipeline (FAISS, Mistral 7B via Ollama) with a RAGAs harness that compares chunking strategies.
 
-I am interested in Reinforcement Learning, Deep Neural Networks, and building scalable systems. I want to learn more about computers and programming.
+### Currently working on
 
+- **[Bail_Reckoner](https://github.com/vabhishekprakash/Bail_Reckoner)**: computes an undertrial prisoner's statutory entitlement to release under Section 479 of the BNSS, 2023. It walks six statutory gates in order and cites the provision behind each step, and its offence data is going through human review before any result is treated as verified.
+- **trust-aware-agent** (private for now): an agent that attaches confidence scores to its answers.
 
+**Tools I use in these projects:** Python, FastAPI, scikit-learn, pandas, FAISS, LangChain, SQL, Docker
 
-
-
-## Tech Stack
-Tools and languages that I use.
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="36" />
-
-
+[LinkedIn](https://www.linkedin.com/in/vallamalla-abhishek-prakash) · vabhishekprakash@gmail.com
