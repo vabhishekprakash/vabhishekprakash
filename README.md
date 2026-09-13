@@ -8,7 +8,8 @@ I'm currently interning at AMIK Technologies, where I work on a RAG-based suppor
 
 - **[trust-aware-agent](https://github.com/vabhishekprakash/trust-aware-agent)**: a retrieval QA agent on a 3B local model that estimates the probability its own answer is right, then answers, asks, abstains or escalates based on that number. I preregistered the analysis and read the held-out split once. The result is negative and published as such: the confidence estimate did not transfer to the test split.
 - **[ev-apm-agent](https://github.com/vabhishekprakash/ev-apm-agent)**: fault detection over OCPP telemetry from a 655-charger production fleet. Rule-based detectors cover 6 fault categories, and a per-connector Isolation Forest flags drift with a 3.62% false-positive rate on a chronological holdout. Built for the ET AI Hackathon 2026.
-- **[rag-eval-system](https://github.com/vabhishekprakash/rag-eval-system)**: a fully local RAG pipeline (FAISS, Mistral 7B via Ollama) with a RAGAs harness that compares chunking strategies.
+- **[rag-eval-system](https://github.com/vabhishekprakash/rag-eval-system)**: a fully local RAG pipeline (FAISS, Mistral 7B via Ollama) with a RAGAs harness that compares chunking strategies against a 28-question evaluation set I wrote over the OCPP specification, including five questions the document does not answer.
+- **[AegisMesh](https://github.com/cyber-del/AegisMesh)**: a two-person hackathon project where an LLM reads correlated traces, logs and token metrics over MCP and patches live service config through a guardrail engine. I built the three instrumented FastAPI services, the OpenTelemetry setup and the self-hosted SigNoz deployment.
 
 ### Currently working on
 
