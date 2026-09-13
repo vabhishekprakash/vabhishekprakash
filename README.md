@@ -2,7 +2,7 @@
 
 Final-year CSE (AI & ML) student. I build tools that make opaque systems easier to understand, from fault detection on EV charging networks to evaluating RAG pipelines.
 
-From April to September 2026 I interned at AMIK Technologies, where I worked on a RAG-based support assistant and diagnosed charger faults from OCPP telemetry.
+I'm Currently interning at AMIK Technologies, where I worked on a RAG-based support assistant and diagnosed charger faults from OCPP telemetry.
 
 ### Projects
 
